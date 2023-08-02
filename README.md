@@ -52,3 +52,7 @@ Current State [[y, y, y],
 ------------------------------
 Solution found in 5 
 Moves: ['right', 'down', 'left', 'up', 'up']
+```
+## Author
+
+**Bouchana Hicham**
