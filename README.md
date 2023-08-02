@@ -1,4 +1,4 @@
-# A_Star_Puzzle_Solver
+# A_Star_8_Puzzle_Solver
 
 ![Sliding Puzzle](puzzle_image.png)
 
@@ -18,14 +18,14 @@ This Python program uses the A* search algorithm to efficiently solve 3x3 slidin
 
 ## Usage
 
-1. Define the initial 3x3 puzzle state in the `initial_state` and `goal_state` variable of the `A_Star_Puzzle_Solver.py` file.
-2. Run the program: `python A_Star_Puzzle_Solver.py`
+1. Define the initial 3x3 puzzle state in the `initial_state` and `goal_state` variable of the `A_Star_8_Puzzle_Solver.py` file.
+2. Run the program: `python A_Star_8_Puzzle_Solver.py`
 3. The program will display the initial board and then start solving the puzzle.
 
 ## Puzzle Representation
 
 - The puzzle is represented as a 2D list (matrix), where the empty space is denoted by 0.
-- The goal state is defined in the `goal_state` variable of the `A_Star_Puzzle_Solver.py` file.
+- The goal state is defined in the `goal_state` variable of the `A_Star_8_Puzzle_Solver.py` file.
 
 ## Example Usage
 
