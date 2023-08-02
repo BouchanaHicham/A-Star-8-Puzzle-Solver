@@ -1,6 +1,6 @@
 # A_Star_8_Puzzle_Solver
 
-![Sliding Puzzle](puzzle_image.png)
+![Sliding Puzzle](https://github.com/BouchanaHicham/A_Star_8_Puzzle_Solver/blob/main/8_Puzzle_Pic.png)
 
 ## Description
 
