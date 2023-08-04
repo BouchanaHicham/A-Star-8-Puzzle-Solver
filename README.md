@@ -53,6 +53,14 @@ Current State [[y, y, y],
 Solution found in 5 
 Moves: ['right', 'down', 'left', 'up', 'up']
 ```
+## License
+
+This project is licensed under the MIT License. You can find the full text of the license in the [LICENSE](LICENSE) file.
+
+## Contributions
+
+Contributions to this project are more than welcome. If you have any suggestions, bug fixes, or new features to add, please feel free to fork the repository and submit a pull request. We value your feedback and contributions!
+
 ## Author
 
 **Bouchana Hicham**
